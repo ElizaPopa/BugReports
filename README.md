@@ -8,8 +8,10 @@
 **Description:** My Info/ Emergency Contacts/ User is not able to add a new contact
 without a phone number (not a required field)
 
-**Preconditions:** Go to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
-Log in with admin credentials
+**Preconditions:** 
+
+1. Go to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2. Log in with admin credentials
 
 **Steps to Reproduce:** 
 
@@ -29,5 +31,33 @@ Log in with admin credentials
 **Priority:** Low
 
 **Environment:** Google Chrome
+
+**Bug data:** user: Admin / pass: admin123
+
+----------------------------------
+
+**Description:** My Info/ Qualifications/ The option "German" is not available as language
+
+**Preconditions:** 
+
+1. Go to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+2. Log in with admin credentials
+
+**Steps to Reproduce:** 
+
+1. Go to "My Info"
+2. Click on "Qualifications" 
+3. Scroll down until "Languages" and hit the "Add" button
+4. Try to select "German" from the Language* droplist
+
+**Expected results:** The german language is displayed
+
+**Actual results:** The german language is not displayed and cannnot be selected
+
+**Severity:** Low
+
+**Priority:** Low
+
+**Environment:** Safari
 
 **Bug data:** user: Admin / pass: admin123
