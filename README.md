@@ -73,3 +73,36 @@ Safari
 
 **Bug data:** 
 User: Admin & Pass: admin123
+
+--------------------------------------------------
+
+**Description:** 
+The mandatory symbol (*) is missing for all the fields from Registration Form/Web Tables/Elements page
+
+**Steps to reproduce:**
+
+1. Go to https://demoqa.com/elements
+2. Click on "Web Tables"
+3. Click on "Add" button
+4. Add "Eliza" into "First Name" field
+5. Add "Popa" into "Last Name" field
+6. Add "example@gmail.com" into "Email" field
+7. Add "32" into "Age" field
+8. Click on "Submit" button
+
+**Expected results:** 
+All new data should be successfully saved 
+
+**Actual results:** 
+The blank fields have become red, as if they were mandatory, but without being mentioned by that symbol (*)
+
+**Severity:** 
+Low
+
+**Priority:** 
+Low
+
+**Environment:** 
+Safari
+
+
