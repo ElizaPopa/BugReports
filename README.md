@@ -5,7 +5,7 @@
 **Description:** My Info/ Emergency Contacts/ User is not able to add a new contact
 without a phone number (not a required field)
 
-**Preconditions:** Go to https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+**Preconditions:** Go to https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 Log in with admin credentials
 
 **Steps to Reproduce:** 
