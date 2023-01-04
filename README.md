@@ -1,6 +1,6 @@
 # BugReports
 
-### Below you can see some of the bugs I found on the projects I worked on
+Below you can see some of the bugs I found on the projects I worked on
 
 
 ----------------------------------
