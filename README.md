@@ -6,7 +6,7 @@ Below you can see some of the bugs I found on the projects I worked on
 ----------------------------------
 
 **Title:**
-Missing mandatory symbol from phone number on Emergency Contact
+Missing required symbol (*) from phone number on Emergency Contact
 
 **Description:** 
 My Info/ Emergency Contacts/ User is not able to add a new contact without a phone number (not a required field)
@@ -45,6 +45,9 @@ User: Admin & Pass: admin123
 
 ----------------------------------
 
+**Title:**
+The "German" language is missing from Qualifications section
+
 **Description:** 
 My Info/ Qualifications/ The option "German" is not available as language
 
@@ -79,8 +82,11 @@ User: Admin & Pass: admin123
 
 --------------------------------------------------
 
+**Title:**
+The required symbol (*) is not displayed in no field on the Registration Form
+
 **Description:** 
-The mandatory symbol (*) is missing for all the fields from Registration Form/Web Tables/Elements page
+The user doesn't know that all the fields from Registration Form on Web Tables in Elements page are mandatory
 
 **Steps to reproduce:**
 
