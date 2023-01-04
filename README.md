@@ -1,6 +1,6 @@
 # BugReports
 
-## Below you can see some of the bugs I found on the projects I worked on
+### Below you can see some of the bugs I found on the projects I worked on
 
 **Description:** My Info/ Emergency Contacts/ User is not able to add a new contact
 without a phone number (not a required field)
