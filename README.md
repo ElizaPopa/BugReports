@@ -32,7 +32,7 @@ without a phone number (not a required field)
 
 **Environment:** Google Chrome
 
-**Bug data:** user: Admin / pass: admin123
+**Bug data:** User: Admin & Pass: admin123
 
 ----------------------------------
 
@@ -60,4 +60,4 @@ without a phone number (not a required field)
 
 **Environment:** Safari
 
-**Bug data:** user: Admin / pass: admin123
+**Bug data:** User: Admin & Pass: admin123
